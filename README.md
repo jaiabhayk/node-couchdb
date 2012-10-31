@@ -1,4 +1,4 @@
-This is a fork felixge/node-couchdb
+This is a fork of [felixge/node-couchdb](https://github.com/felixge/node-couchdb)
 
 This fork add the following changes :
 
