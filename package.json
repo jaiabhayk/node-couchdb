@@ -1,7 +1,7 @@
 {
   "name": "plantnet-couchdb",
   "version": "0.1",
-  "author": "Samuel Dufour-Kowalski <samuel.dufour@cirad.fr",
+  "author": "Samuel Dufour-Kowalski <samuel.dufour@cirad.fr>",
   "description": "A fork of felix-couchdb, created by Felix Geisendörfer",
   "keywords": [
     "couch",
